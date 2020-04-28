@@ -233,7 +233,7 @@ Note:
 --
 
 This presentation was created using [Reveal.js](https://revealjs.com/#/), the HTML presentation framework. Fork it at:
-[https://github.com/doublebyte1/heroku](https://github.com/doublebyte1/heroku)
+[https://github.com/CodeOp-tech/docker](https://github.com/CodeOp-tech/docker)
 
 ```
 npx reveal.js-online
