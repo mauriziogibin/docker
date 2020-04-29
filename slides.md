@@ -223,15 +223,68 @@ Note:
 
 
 --
+## How does it work?
 
+
+![corona](/images/architecture.svg)
+
+
+--
+## Container
+
+![corona](/images/container.png) 
+
+
+Note:
+- Wehere can we get these images from?
+
+--
+## Docker hub
+
+[https://hub.docker.com/](https://hub.docker.com/)
+
+![corona](/images/docker_hub.png) 
+
+Note:
+- The biggest register of all is the docker hub (play store)
+- register to use it (is free)
+- tour of the docker hub
+- official images
+
+--
+## Docker-compose
+
+Multi-container applications
+
+![corona](/images/compose.png) 
+
+Note:
+- Most of the time we don't want an application with a single application
+- Implement architectures
+
+--
 ## Ready to see an example?
 
 
 ![corona](/images/office_worker.jpg)
 
+--
+## Try it!
+
+[https://labs.play-with-docker.com/](https://labs.play-with-docker.com/)
 
 --
+## Install it!
 
+[https://docs.docker.com/engine/install/](https://docs.docker.com/engine/install/)
+[https://docs.docker.com/compose/install/](https://docs.docker.com/compose/install/)
+
+--
+## Learn it!
+
+[https://training.play-with-docker.com/](https://training.play-with-docker.com/)
+
+--
 This presentation was created using [Reveal.js](https://revealjs.com/#/), the HTML presentation framework. Fork it at:
 [https://github.com/CodeOp-tech/docker](https://github.com/CodeOp-tech/docker)
 
