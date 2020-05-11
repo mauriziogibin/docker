@@ -12,16 +12,3 @@ A server will run on:
 
 http://localhost:8001/
 
-
-
-heroku login
-heroku create
-git push heroku master
-
-https://dashboard.heroku.com/apps
-
-https://elements.heroku.com/addons/mongolab
-
-heroku config:get MONGODB_URI
-
-heroku addons:open mongolab
