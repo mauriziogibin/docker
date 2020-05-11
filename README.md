@@ -25,3 +25,7 @@ Preview the presentation on:
 [http://localhost:8001/reveal.html#/](http://localhost:8001/reveal.html#/)
 
 Press `f` for full-screen and `s` for speakers notes.
+
+## MAINTAINER
+
+This presentation was created by [Joana Simoes](mailto:joana@codeop.tech).
