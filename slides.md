@@ -1,3 +1,7 @@
+<!-- .slide: data-background="/images/slide1.png" data-background-size="100% 100%"-->
+
+
+
 # Docker
 
 ### Virtualizing services
@@ -18,7 +22,7 @@ Note:
 - Infrastructure as code
 
 --
-# Deploying 
+## Deploying 
 
 - Installing applications is complex.
 - Installing SOA can be *nightmare*.
@@ -29,7 +33,7 @@ Note:
 - This depends on software architecture
 
 --
-# This is possible
+## This is possible
 
 ![corona](/images/push.jpg)
 
