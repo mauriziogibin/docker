@@ -34,6 +34,11 @@ You can export the slide deck to pdf, by calling this url on your browser:
 
 Then printing it to a file, using the pdf driver.
 
+You can convert the pdf to multiple images, using [imagemagick](https://imagemagick.org/index.php):
+
+ convert -density 150 input_file.pdf -quality 100 output_file.png
+
+
 ## MAINTAINER
 
 This presentation was created by [Joana Simoes](mailto:joana@codeop.tech).
