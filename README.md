@@ -26,6 +26,14 @@ Preview the presentation on:
 
 Press `f` for full-screen and `s` for speakers notes.
 
+## EXPORT
+
+You can export the slide deck to pdf, by calling this url on your browser:
+
+[http://localhost:8001/reveal.html?print-pdf#/](http://localhost:8001/reveal.html?print-pdf#/)
+
+Then printing it to a file, using the pdf driver.
+
 ## MAINTAINER
 
 This presentation was created by [Joana Simoes](mailto:joana@codeop.tech).
